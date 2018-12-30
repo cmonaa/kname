@@ -1,0 +1,33 @@
+{
+  "Name" : " My  Idols",
+  "members" : [
+    {
+      "name" : "Jikang",
+      "lifetime" : 39,
+      "known" : "seven sages of the bamboo grove",
+      "renown" : [
+        "litterateur",
+        "ideologist",
+        "Musician"
+      ]
+    },
+    {
+      "name" : "Xingde Nalan",
+      "lifetime" : 30,
+      "known" : "The first poet of the manchu and qing dynasties",
+      "renown" : [
+        "litterateur"
+      ]
+    },
+    {
+      "name" : "Sushi",
+      "lifetime" : 74,
+      "known" : "One of the eight masters of tang and song dynasties",
+      "renown" : [
+        "litterateur",
+        "calligrapher",
+        "artist"
+      ]
+    }
+  ]
+}
